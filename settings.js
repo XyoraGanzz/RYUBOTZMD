@@ -11,7 +11,7 @@ global.APIKeys = {
 }
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
+global.namaowner = 'Atsair Ganteng' //Ganti Jadi Namamu
 global.owner = ['62882019247701','62882019247701'] //Kalo Mau Lebih Tambahin Aja
 global.nomerowner = '62882019247701' //Owner Utama Istilahnya
 global.namabot = 'AtsairBotz MD' //Ganti Jadi Nama Botmu
@@ -20,7 +20,7 @@ global.author = 'Atsairbotz' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com'
 global.sessionName = 'session'
 global.bg_welcome = 'https://telegra.ph/file/528b594d5d91c08482515.jpg' //Max 30kb Agar Tidak Delay
-global.youtube = 'https://youtube.com/c/RyuukaBotz'
+global.youtube = 'https://youtube.com/channel/UC3VSUWzMu_tk61XIiH1GgYg'
 global.github = 'https://github.com/XyoraStore'
 global.instagram = 'https://instagram.com/muhammad_atsair20?utm_medium=copy_link._'
 
